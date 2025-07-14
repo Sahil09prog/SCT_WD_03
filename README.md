@@ -24,7 +24,8 @@
 
 🚀 How to run
 
-- Download or Clone this Repository git clone https://github.com/Sahil09prog/SCT_WD_03/blob/main/Tic-tac-toe.html
+- Download or Clone this Repository git clone https://github.com/user-attachments/assets/ecf18a43-d9a4-4a43-bccb-
+     ac0ee4cd69af//github.com/Sahil09prog/SCT_WD_03/blob/main/Tic-tac-toe.html
 - Open the Game
 - Locate the index.html file inside the project folder.
 - Double-click it, or open it in your web browser using: open index.html # macOS start index.html # Windows
@@ -44,7 +45,13 @@
 - Responsive Design Principles: Applied CSS Grid to create a layout that adapts seamlessly across devices
 - Randomized AI Behavior: Integrated basic computer move generation using non-deterministic logic
 
-  
+------
+
+💡Output/review
+
+
+
+
 
 
 
